@@ -1,0 +1,6 @@
+venv/ 
+runs/ 
+*.zip 
+*.pt 
+*.ipynb_checkpoints/ 
+__pycache__/ 

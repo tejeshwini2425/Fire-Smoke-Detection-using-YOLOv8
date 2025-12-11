@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['fire', 'smoke']
+
+roboflow:
+  workspace: teju-sfeyg
+  project: fire-and-smoke-detector-yykya-jsog1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/teju-sfeyg/fire-and-smoke-detector-yykya-jsog1/dataset/1
